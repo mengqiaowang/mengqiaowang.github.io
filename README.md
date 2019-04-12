@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to West China Biomedical Data Science Lab!
 
 You can use the [editor on GitHub](https://github.com/mengqiaowang/mengqiaowang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
